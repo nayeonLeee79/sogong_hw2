@@ -1,1 +1,2 @@
 create 2.txt in nayeonLeee79's sogong_hw2
+modi 1time
